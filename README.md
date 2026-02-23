@@ -8,7 +8,7 @@ I'm a passionate **Junior Full-Stack Developer** who loves turning ideas into re
 - **Frontend**: Next.js, Vue.js
 - **Backend**: Express.js
 - **Styling**: CSS, Tailwind CSS
-- **Databases**: MongoDB
+- **Databases**: MongoDB, Supabase, PostgreSQL
 
 ## 🚀 What I've Built
 
