@@ -1,26 +1,71 @@
-# Hey there! 👋
+# 👋 Hey there, I’m Larry
 
-I'm a passionate **Junior Full-Stack Developer** who loves turning ideas into reality. From dynamic front-end interfaces to robust back-end solutions, I strive to create seamless and user-friendly experiences. 
+I’m a **Full-Stack Software Developer** focused on building fast, scalable, and user-centered web applications. I enjoy working across the stack — from crafting clean interfaces to engineering reliable backend systems.
 
-## 🛠️ Technologies & Tools
+I like solving real-world problems with code and continuously improving how systems perform, scale, and feel for users.
 
-- **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: Next.js, Vue.js
-- **Backend**: Express.js
-- **Styling**: CSS, Tailwind CSS
-- **Databases**: MongoDB, Supabase, PostgreSQL
+---
 
-## 🚀 What I've Built
+## 🛠️ Tech Stack
 
-I’ve worked on a variety of projects, from simple websites to complex web applications. Each project strengthens my skills in both front-end and back-end development. I'm particularly excited about working with modern JavaScript frameworks like **Next.js** and **Vue.js**, and building scalable APIs with **Express.js**.
+### Languages
+- JavaScript  
+- TypeScript  
+- Python  
 
-## 🌱 I'm currently learning...
+### Frontend
+- Next.js  
+- Vue.js  
+- Tailwind CSS  
+- CSS  
 
-- Deepening my expertise in TypeScript
-- Exploring new backend architectures
-- Optimizing performance in my applications
+### Backend
+- Node.js (Express.js, Nest.js)  
+- REST APIs  
 
-Feel free to explore my repositories, and if you have any questions or would like to collaborate, just reach out! 
+### Databases
+- PostgreSQL  
+- MongoDB  
+- Supabase  
+
+### Tools & Platforms
+- Git & GitHub  
+- Docker (basic familiarity)  
+- Ubuntu / Windows  
+- Vercel  
+
+---
+
+## ⚙️ What I Focus On
+
+- Building clean, maintainable full-stack applications  
+- Designing scalable backend systems and APIs  
+- Creating responsive and performant user interfaces  
+- Improving developer experience and workflow efficiency  
+- Writing code that is simple, readable, and production-ready  
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced TypeScript patterns  
+- Scalable backend architecture  
+- Performance optimization techniques  
+- Stronger system design fundamentals  
+
+---
+
+## 🚀 Developer Mindset
+
+I believe great software is not just about features — it’s about clarity, performance, and reliability.
+
+I enjoy working on systems that require thoughtful structure and clean execution, and I’m always refining how I build and ship software.
+
+---
+
+## 📫 Let’s Connect
+
+If you’re building something interesting, collaborating on ideas, or just want to connect with another developer — feel free to reach out.
 # 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
